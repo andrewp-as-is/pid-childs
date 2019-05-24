@@ -1,0 +1,14 @@
+{
+  "name": "pid-childs",
+  "version": "2019.5.15",
+  "description": "list all child PIDs",
+  "keywords": [
+    "child",
+    "pid"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/pid-childs",
+  "license": "Unlicense",
+  "bin": {
+    "pid-childs": "./scripts/pid-childs"
+  }
+}
