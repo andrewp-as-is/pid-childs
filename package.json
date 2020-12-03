@@ -1,6 +1,6 @@
 {
   "name": "pid-childs",
-  "version": "2019.5.15",
+  "version": "2020.12.3",
   "description": "list all child PIDs",
   "keywords": [
     "child",
